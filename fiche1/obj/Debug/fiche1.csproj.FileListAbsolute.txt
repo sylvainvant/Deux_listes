@@ -1,0 +1,8 @@
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche1\fiche1\obj\Debug\fiche1.FormPrincipal.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche1\fiche1\obj\Debug\fiche1.Properties.Resources.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche1\fiche1\obj\Debug\fiche1.csproj.GenerateResource.Cache
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche1\fiche1\bin\Debug\fiche1.exe.config
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche1\fiche1\bin\Debug\fiche1.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche1\fiche1\bin\Debug\fiche1.pdb
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche1\fiche1\obj\Debug\fiche1.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\fiche1\fiche1\obj\Debug\fiche1.pdb
